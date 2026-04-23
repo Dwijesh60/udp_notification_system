@@ -4,9 +4,9 @@ A small Python project for sending and receiving UDP notifications on a local ne
 
 ## 👥 Team Members
 
-* **Harsh Jha** — *Lead Developer (UI/UX & Integration)*
-* **Dwijesh Krishna G** — *Systems Architect (Networking & Endianness)*
-* **Chirag Arun Yadwad** — *QA Engineer (LAN Logic & Testing)*
+* **Harsh Jha** 
+* **Dwijesh Krishna G** 
+* **Chirag Arun Yadwad** 
 
 ## Project structure
 
